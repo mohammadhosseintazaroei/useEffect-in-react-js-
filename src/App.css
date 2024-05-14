@@ -1,0 +1,7 @@
+body {
+  background: linear-gradient(45deg, #9cb169, #86bf49);
+}
+.App {
+  display: flex;
+  justify-content: center;
+}
